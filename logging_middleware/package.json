@@ -1,0 +1,15 @@
+﻿{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Priority notification sorting for campus hiring evaluation",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test/middleware.test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
